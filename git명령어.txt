@@ -12,3 +12,11 @@ git push (https or SSH) 주소 / 커밋된 파일을 원격저장소(깃허브)�
 git remote add origin https://github.com/ParkJhh/git-practice.git
 git branch -M main
 git push -u origin main
+
+git branch featur/기능이름 / branc 생성하는 것 feature이하는 규약
+
+git switch / 현재의 브랜치들 및 어디에 속해있는지 보여줌
+git switch 브랜치명 / 해당 브랜치로 이동
+
+
+git에서 브랜치 병합시,현재 헤더를 기준으로 병합함
